@@ -4,7 +4,7 @@
 - I'm French
 - I have an Information Systems Management master's degree from the Sorbonne university
 - Dev is a side thing I've been into circa 2008
-- I can speak 🇫🇷 🇬🇧 and 🇩🇪 🇯🇵 but not so great
+- I can speak 🇫🇷 🇬🇧 (and 🇩🇪 🇯🇵 but not so great)
 
 ## The languages and tools I use
 ### Recent stuff
